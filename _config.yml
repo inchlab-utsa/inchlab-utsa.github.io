@@ -17,6 +17,8 @@ search_enabled: false
 
 heading_anchors: true
 
+color_scheme: dark
+
 
 back_to_top: true
 back_to_top_text: "Back to top"
