@@ -1,5 +1,5 @@
 ---
-title: Home
+title: INCH Lab UTSA
 layout: home
 ---
 
