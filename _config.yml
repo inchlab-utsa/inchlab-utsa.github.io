@@ -7,15 +7,19 @@ url: https://inchlab-utsa.github.io
 
 aux_links:
   INCH lab Repository: https://github.com/inchlab-utsa
+  
+aux_links_new_tab: true
 
 
-
-logo: https://github.com/inchlab-utsa/inchlab-utsa.github.io/blob/main/imgs/INCH.png?raw=true
+logo: https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/INCH.png
 
 search_enabled: false
 
 heading_anchors: true
 
+
+back_to_top: true
+back_to_top_text: "Back to top"
 
 
 
