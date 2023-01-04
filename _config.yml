@@ -10,6 +10,16 @@ aux_links:
 
 
 
-logo: https://github.com/inchlab-utsa/inchlab-utsa.github.io/blob/main/imgs/INCH.png
+logo: https://github.com/inchlab-utsa/inchlab-utsa.github.io/blob/main/imgs/INCH.png?raw=true
+
+search_enabled: false
+
+heading_anchors: true
+
+
+
+
+
+
 
 
