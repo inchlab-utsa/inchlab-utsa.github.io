@@ -9,4 +9,4 @@ nav_order: 1
 about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab 
 
 
-![Principal investigator](https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/pi.png "Raylan Givens")
+![Campus (https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/main-campus-aerial.png)"UTSA")
