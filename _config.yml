@@ -2,6 +2,7 @@ title: UTSA INCH Lab
 author: Denver Brown
 description: Infant Child & Youth Health lab at The University of Texas at San Antonio
 #theme: just-the-docs
+remote_theme: pmarsceill/jtd-remote
 
 url: https://inchlab-utsa.github.io
 
