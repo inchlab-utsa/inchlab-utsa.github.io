@@ -18,7 +18,7 @@ nav_order: 2
 
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 2em;">
+  <div style="float: left; margin-right: 3em;">
     <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chris.jpg" alt="" width="300" height="300">
   </div>
   <div>
