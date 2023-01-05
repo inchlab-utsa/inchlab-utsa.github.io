@@ -1,5 +1,5 @@
 ---
-title: INCH Lab UTSA
+title: About
 layout: home
 nav_order: 1
 ---
