@@ -41,7 +41,7 @@ nav_order: 2
   </div>
   <div>
     <h2>Christopher Huong</h2>
-    <p>Chris is a masters student in the psychology program at UTSA. His interests are about me about me about me about me about me about me about me about me about me about me about me about me about me about me. He can be reached at <a href = "mailto: christopher.huong@utsa.edu">christopher.huong@utsa.edu</a></p>
+    <p>Chris is a masters student in the psychology program at UTSA. His interests are about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me. He can be reached at <a href = "mailto: christopher.huong@utsa.edu">christopher.huong@utsa.edu</a></p>
   </div>
 </div>
 
