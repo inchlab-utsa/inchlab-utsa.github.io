@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Current Lab Members
+title: Current Members
 nav_order: 2
 ---
 
@@ -15,7 +15,7 @@ nav_order: 2
 </div>
 
 ---
-# Graduate Students
+## Graduate Students
 
 
 
@@ -35,7 +35,7 @@ nav_order: 2
 
 
 ---
-# Undergraduates
+## Undergraduates
 
 
 <div style="clear: both;">
