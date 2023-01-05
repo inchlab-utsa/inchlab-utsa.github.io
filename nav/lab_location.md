@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Current Lab Location
+title: Lab Location
 nav_order: 99
 ---
 
