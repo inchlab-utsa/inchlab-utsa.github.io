@@ -1,9 +1,14 @@
 ---
 layout: default
-title: Current Lab Members
-nav_order: 2
+title: Publications
+nav_order: 3
 ---
 
-![Denver Brown](https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/pi.png "US Marshall Raylan Givens")
+# 2022
 
-Dr. Givens is the Principal Investigator and director of the INCH Lab at UTSA. More about me More about me More about me More about me More about me More about me More about me 
+Brown, D. M., Porter, C., Hamilton, F., Almanza, F., Narvid, C., Pish, M., & Arizabalo, D. (2022). Interactive Associations between Physical Activity and Sleep Duration in Relation to Adolescent Academic Achievement. International Journal of Environmental Research and Public Health, 19(23), 15604.
+
+Porter, C., McPhee, P., Kwan, M., Timmons, B., & Brown, D. (2022). 24-hour movement guideline adherence and mental health: A cross-sectional study of emerging adults with chronic health conditions and disabilities.
+
+Porter, C., McPhee, P., Kwan, M., Timmons, B., & Brown, D. (2022). 24-hour movement guideline adherence and mental health: A cross-sectional study of emerging adults with chronic health conditions and disabilities.
+
