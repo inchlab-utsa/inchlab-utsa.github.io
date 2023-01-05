@@ -9,7 +9,7 @@ nav_order: 2
     <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/pi.png" alt="" width="300" height="300">
   </div>
   <div>
-    <h2>Denver Brown PhD</h2>
+    <h2>Denver Brown, PhD</h2>
     <p>Dr. Brown is the Principal Investigator and director of the INCH Lab at UTSA. More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me </p>
   </div>
 </div>
@@ -29,6 +29,8 @@ nav_order: 2
 
 <br/><br/>
 <br/><br/>
+<br/><br/>
+
 
 ---
 
