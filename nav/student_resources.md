@@ -22,6 +22,7 @@ nav_order: 4
 
 - **Marginally Significant** [<a href="https://podcasts.apple.com/us/podcast/marginally-significant/id1455581022" target="_blank">Podcast</a>] "Marginally Significant is a podcast discussing life in academia, issues with scientific research, and current events."
 
+- **Mitch’s Uncensored Advice for Applying to Graduate School in Clinical Psychology** [<a href="https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf" target="_blank">PDF</a>]
 
 - **The Psychology PhD** [<a href="https://www.youtube.com/@ThePsychologyPhD" target="_blank">YouTube</a>] Applying to graduate school in psychology.
 
