@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Join Our Lab
+title: Join Our Team
 nav_order: 99
 ---
 
