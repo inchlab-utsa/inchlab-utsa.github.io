@@ -33,4 +33,20 @@ nav_order: 4
 
 - **Tom Mullaney** [<a href="https://www.youtube.com/@tsmullaney" target="_blank">YouTube</a>] "An insider's look at how academia *really* works, by a first-generation college student, and a Professor of History of 14 years."
 
-- **Casey Fiesler** [<a href="https://www.youtube.com/@CaseyFieslerPhD" target="_blank">YouTube</a> "Mostly my videos are academic advice, academic life, and video essays about my research -  tech ethics and fandom."
+- **Casey Fiesler** [<a href="https://www.youtube.com/@CaseyFieslerPhD" target="_blank">YouTube</a>] "Mostly my videos are academic advice, academic life, and video essays about my research -  tech ethics and fandom."
+
+ - **Scientific Writing with Karen L. McKee** [<a href="https://www.youtube.com/@user-wr6bk8yy3m" target="_blank">YouTube</a>] Advice for scientific writing.
+ 
+ - **Scientific Writing School** [<a href="https://www.youtube.com/@ScientificWritingSchool" target="_blank">YouTube</a>] Advice for scientific writing.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <br/><br/>
