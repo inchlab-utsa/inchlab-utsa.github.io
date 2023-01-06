@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 
-## Navigating university life is difficult. Here are a compilation of podcasts, YouTube channels, and articles for prospective graduate students in psychology. Good luck!
+## Navigating university life is difficult. Here are a compilation of free resources prospective graduate students in psychology. Good luck!
 
 ---
 
