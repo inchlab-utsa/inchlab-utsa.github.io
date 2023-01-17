@@ -6,7 +6,7 @@ nav_order: 2
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 2em;">
-    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chris.jpg" alt="" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chris.jpg" alt="" width="400" height="400">
   </div>
   <div>
     <h2>Denver Brown, PhD</h2>
@@ -21,7 +21,7 @@ nav_order: 2
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 2em;">
-    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chris.jpg" alt="" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chris.jpg" alt="" width="400" height="400">
   </div>
   <div>
     <h2>Christopher Huong</h2>
@@ -40,7 +40,7 @@ nav_order: 2
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 2em;">
-    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chris.jpg" alt="" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chris.jpg" alt="" width="400" height="400">
   </div>
   <div>
     <h2>Christopher Huong</h2>
