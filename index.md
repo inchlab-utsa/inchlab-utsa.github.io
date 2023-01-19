@@ -8,6 +8,6 @@ nav_order: 1
 
 ![Campus](https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/cover.jpg "Denver Brown")
 
-about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab 
+about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about the lab about
 
 

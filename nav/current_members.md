@@ -23,7 +23,7 @@ nav_order: 2
     <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/claireg.JPG" alt="" width="400" height="400">
   </div>
   <div>
-    <h2>Claire Groves</h2>
+    <h2>Claire Groves, MA</h2>
     <p>Claire is a first year Ph.D student at UTSA after recently completing her M.A in psychology from Northern Arizona University. Her research interests include how movement behaviours (i.e., physical activity, sedentary behavior, sleep) influence both positive and negative aspects of mental health. As well as examining how different factors impact engagement in healthy behaviours. Outside of research, Claire enjoys running, playing soccer, and reading. She can be reached at <a href = "mailto: claire.groves@utsa.edu">claire.groves@utsa.edu</a></p>
   </div>
 </div>
