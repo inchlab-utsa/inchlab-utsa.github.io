@@ -46,15 +46,6 @@ nav_order: 2
 
 
 
-<div style="clear: both;">
-  <div style="float: left; margin-right: 2em;">
-    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chrish.jpg" alt="" width="400" height="400">
-  </div>
-  <div>
-    <h2>Christopher Huong</h2>
-    <p>Chris is a current masters student in the psychology program at UTSA. He graduated with a BA in psychology from Washington State University. His research interests are investigating the network structure of depressive symptomatology, and how different factors (e.g., physical activity levels) influence individual symptoms. He is particularly interested in using intensive longitudinal methods to reveal how the temporal dynamics of symptoms unfold over time. Outside of the lab, he can found be at the gym, reading, or cooking. Chris can be reached at <a href = "mailto: christopher.huong@utsa.edu">christopher.huong@utsa.edu</a></p>
-  </div>
-</div>
 
 
 
@@ -74,6 +65,22 @@ nav_order: 2
     <p>Bella is a graduate from Texas Christian University where she earned a BS in Psychology and is currently working on her MS in Psychology at The University of Texas at San Antonio under the supervision of Dr. Denver Brown. Her research interests include athletes and mental health, specifically how types of athletic training days impact mood and stress. Bella’s favorite way to get active is by playing beach volleyball, doing yoga, or walking outside. She can be reached at <a href = "mailto: isabella.swafford@utsa.edu">isabella.swafford@utsa.edu</a></p>
   </div>
 </div>
+
+
+
+
+<div style="clear: both;">
+  <div style="float: left; margin-right: 2em;">
+    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chrish.jpg" alt="" width="400" height="400">
+  </div>
+  <div>
+    <h2>Christopher Huong</h2>
+    <p>Chris is a current masters student in the psychology program at UTSA. He graduated with a BA in psychology from Washington State University. His research interests are investigating the network structure of depressive symptomatology, and how different factors (e.g., physical activity levels) influence individual symptoms. He is particularly interested in using intensive longitudinal methods to reveal how the temporal dynamics of symptoms unfold over time. Outside of the lab, he can found be at the gym, reading, or cooking. Chris can be reached at <a href = "mailto: christopher.huong@utsa.edu">christopher.huong@utsa.edu</a></p>
+  </div>
+</div>
+
+
+
 
 <br/><br/>
 <br/><br/>
