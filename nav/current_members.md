@@ -17,9 +17,23 @@ nav_order: 2
 ---
 ## Graduate Students
 
+
 <div style="clear: both;">
   <div style="float: left; margin-right: 2em;">
-    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/carah.jpg" alt="" width="400" height="400">
+    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/claireg.JPG" alt="" width="400" height="400">
+  </div>
+  <div>
+    <h2>Claire Groves</h2>
+    <p>Claire is a first year Ph.D student at UTSA after recently completing her M.A in psychology from Northern Arizona University. Her research interests include how movement behaviours (i.e., physical activity, sedentary behavior, sleep) influence both positive and negative aspects of mental health. As well as examining how different factors impact engagement in healthy behaviours. Outside of research, Claire enjoys running, playing soccer, and reading. She can be reached at <a href = "mailto: claire.groves@utsa.edu">claire.groves@utsa.edu</a></p>
+  </div>
+</div>
+
+
+
+
+<div style="clear: both;">
+  <div style="float: left; margin-right: 2em;">
+    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/carahp.JPG" alt="" width="400" height="400">
   </div>
   <div>
     <h2>Carah Porter</h2>
@@ -27,13 +41,37 @@ nav_order: 2
   </div>
 </div>
 
+
+
+
+
+
 <div style="clear: both;">
   <div style="float: left; margin-right: 2em;">
-    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chris.jpg" alt="" width="400" height="400">
+    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chrish.jpg" alt="" width="400" height="400">
   </div>
   <div>
     <h2>Christopher Huong</h2>
     <p>Chris is a current masters student in the psychology program at UTSA. He graduated with a BA in psychology from Washington State University. His research interests are investigating the network structure of depressive symptomatology, and how different factors (e.g., physical activity levels) influence individual symptoms. He is particularly interested in using intensive longitudinal methods to reveal how the temporal dynamics of symptoms unfold over time. Outside of the lab, he can found be at the gym, reading, or cooking. Chris can be reached at <a href = "mailto: christopher.huong@utsa.edu">christopher.huong@utsa.edu</a></p>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div style="clear: both;">
+  <div style="float: left; margin-right: 2em;">
+    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/bellas.jpeg" alt="" width="400" height="400">
+  </div>
+  <div>
+    <h2>Isabella Swafford</h2>
+    <p>Bella is a graduate from Texas Christian University where she earned a BS in Psychology and is currently working on her MS in Psychology at The University of Texas at San Antonio under the supervision of Dr. Denver Brown. Her research interests include athletes and mental health, specifically how types of athletic training days impact mood and stress. Bella’s favorite way to get active is by playing beach volleyball, doing yoga, or walking outside. She can be reached at <a href = "mailto: isabella.swafford@utsa.edu">isabella.swafford@utsa.edu</a></p>
   </div>
 </div>
 
