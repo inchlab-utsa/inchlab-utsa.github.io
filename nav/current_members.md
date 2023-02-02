@@ -88,7 +88,7 @@ nav_order: 2
 
 
 ---
-## Undergraduates
+## Undergraduate Students
 
 
 <div style="clear: both;">
