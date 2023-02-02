@@ -25,7 +25,7 @@ nav_order: 4
 - **Mitch’s Uncensored Advice for Applying to Graduate School in Clinical Psychology** [<a href="https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf" target="_blank">PDF</a>]
 
 - **The Psychology PhD** [<a href="https://www.youtube.com/@ThePsychologyPhD" target="_blank">YouTube</a>] Applying to graduate school in psychology.
-- 
+
 
 - **Andy Stapleton** [<a href="https://www.youtube.com/@DrAndyStapleton" target="_blank">YouTube</a>] Graduate school, productivity, the PhD, academia.
 
