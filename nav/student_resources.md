@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 
-## Navigating university life is difficult. Here are a compilation of free resources for prospective and current graduate students in psychology. Good luck!
+## Navigating university life is difficult. Here are a compilation of free resources for prospective and current graduate students in psychology.
 
 ---
 
@@ -25,8 +25,7 @@ nav_order: 4
 - **Mitch’s Uncensored Advice for Applying to Graduate School in Clinical Psychology** [<a href="https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf" target="_blank">PDF</a>]
 
 - **The Psychology PhD** [<a href="https://www.youtube.com/@ThePsychologyPhD" target="_blank">YouTube</a>] Applying to graduate school in psychology.
-
-- **R3ciprocity** [<a href="https://www.youtube.com/@R3ciprocityTeam/playlists" target="_blank">YouTube</a>] Applying to and choosing graduate programs, suceeding in graduate school and early career, and life inside of academia.
+- 
 
 - **Andy Stapleton** [<a href="https://www.youtube.com/@DrAndyStapleton" target="_blank">YouTube</a>] Graduate school, productivity, the PhD, academia.
 
