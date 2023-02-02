@@ -15,7 +15,7 @@ nav_order: 2
 </div>
 
 ---
-## Graduate Students
+# Graduate Students
 
 
 <div style="clear: both;">
@@ -88,7 +88,7 @@ nav_order: 2
 
 
 ---
-## Undergraduate Students
+# Undergraduate Students
 
 
 <div style="clear: both;">
