@@ -3,7 +3,7 @@ layout: default
 title: Current Members
 nav_order: 2
 ---
-
+# Principal Investigator
 <div style="clear: both;">
   <div style="float: left; margin-right: 2em;">
     <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/denverb.png" alt="" width="400" height="400">
