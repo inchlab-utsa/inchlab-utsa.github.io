@@ -6,11 +6,11 @@ nav_order: 2
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 2em;">
-    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chrish.jpg" alt="" width="400" height="400">
+    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/denverb.png" alt="" width="400" height="400">
   </div>
   <div>
     <h2>Denver Brown, PhD</h2>
-    <p>Dr. Brown is the Principal Investigator and director of the INCH Lab at UTSA. More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me More about me </p>
+    <p>Dr. Denver Brown is an Assistant Professor in the Department of Psychology at the University of Texas at San Antonio, with a joint appointment in Department of Kinesiology. He oversees the INCH Lab at UTSA. After graduating from the HonBScKin, MSc, and PhD programs in the Department of Kinesiology at McMaster University in Hamilton, Canada, Denver went on to complete Postdoctoral Fellowships in the Mental Health and Physical Activity Research Centre at the University of Toronto and the Department of Family Medicine at McMaster University. In his spare time, Denver enjoys spending time with his son, playing hockey, trail running and road cycling. </p>
   </div>
 </div>
 
@@ -91,15 +91,7 @@ nav_order: 2
 # Undergraduate Students
 
 
-<div style="clear: both;">
-  <div style="float: left; margin-right: 2em;">
-    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chrish.jpg" alt="" width="400" height="400">
-  </div>
-  <div>
-    <h2>Christopher Huong</h2>
-    <p>Chris is a masters student in the psychology program at UTSA. His interests are about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me about me. He can be reached at <a href = "mailto: christopher.huong@utsa.edu">christopher.huong@utsa.edu</a></p>
-  </div>
-</div>
+
 
 
 <br/><br/>
