@@ -69,6 +69,22 @@ nav_order: 2
 
 
 
+
+<div style="clear: both;">
+  <div style="float: left; margin-right: 2em;">
+    <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/bryces.jpg" alt="" width="400" height="400">
+  </div>
+  <div>
+    <h2>Bryce Summerville, BA</h2>
+    <p>Bryce is currently a masters student in the psychology program at UTSA. He graduated with a BA in psychology from The University of Missouri-Kansas City. His research interests are motivation as it relates to physical activity and how being active affects our mental health. Outside of school, Bryce can found be at the gym, watching sports, or relaxing.  He can be reached at <a href = "mailto: bryce.summerville@utsa.edu">bryce.summerville@utsa.edu</a></p>
+  </div>
+</div>
+
+
+
+
+
+
 <div style="clear: both;">
   <div style="float: left; margin-right: 2em;">
     <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chrish.jpg" alt="" width="400" height="400">
@@ -78,6 +94,14 @@ nav_order: 2
     <p>Chris is a current masters student in the psychology program at UTSA. He graduated with a BA in psychology from Washington State University. His research interests are investigating the network structure of depressive symptomatology, and how different factors (e.g., physical activity levels) influence individual symptoms. Outside of the lab, Chris can found be at the gym, reading, or cooking. He can be reached at <a href = "mailto: christopher.huong@utsa.edu">christopher.huong@utsa.edu</a></p>
   </div>
 </div>
+
+
+
+
+
+
+
+
 
 
 
