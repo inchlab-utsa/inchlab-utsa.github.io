@@ -33,8 +33,8 @@ nav_order: 3
 
 - Kwan, M. Y. W., Brown, D. M. Y., Dutta, P. Haider, I. Cairney, J. & Rhodes, R. E. (2021). Application of the multi-process action control model to predict physical activity during late adolescence. Journal of Sport & Exercise Psychology, 44, 35-41. https://doi.org/10.1123/jsep.2021-0169
 
-- Brown, D. M. Y. & Kwan, M. Y. (2021). Movement behaviors and mental wellbeing: A cross-sectional isotemporal substitution analysis of Canadian adolescents. Frontiers in Behavioral Neuroscience, 15, 736587. doi.org/10.3389/fnbeh.2021.736587
+- Brown, D. M. Y. & Kwan, M. Y. (2021). Movement behaviors and mental wellbeing: A cross-sectional isotemporal substitution analysis of Canadian adolescents. Frontiers in Behavioral Neuroscience, 15, 736587. https://doi.org/10.3389/fnbeh.2021.736587
 
-- Brown, D. M. Y., McPhee, P.G., Kwan, M. Y. & Timmons, B. W. (2021). Implications of disability severity on 24-hour movement guideline adherence among children with neurodevelopmental disorders in the United States. Journal of Physical Activity & Health, 18, 1325-1331. doi.org/10.1123/jpah.2021-0282
+- Brown, D. M. Y., McPhee, P.G., Kwan, M. Y. & Timmons, B. W. (2021). Implications of disability severity on 24-hour movement guideline adherence among children with neurodevelopmental disorders in the United States. Journal of Physical Activity & Health, 18, 1325-1331. https://doi.org/10.1123/jpah.2021-0282
 
 
