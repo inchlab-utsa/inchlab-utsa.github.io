@@ -6,7 +6,7 @@ nav_order: 3
 
 # 2022
 
-- Brown, D. M., Porter, C., Hamilton, F., Almanza, F., Narvid, C., Pish, M., & Arizabalo, D. (2022). **Interactive Associations between Physical Activity and Sleep Duration in Relation to Adolescent Academic Achievement.** International Journal of Environmental Research and Public Health, 19(23), 15604. https://doi.org/10.3390/ijerph192315604
+- Brown, D. M., Porter, C., Hamilton, F., Almanza, F., Narvid, C., Pish, M., & Arizabalo, D. (2022). Interactive Associations between Physical Activity and Sleep Duration in Relation to Adolescent Academic Achievement. International Journal of Environmental Research and Public Health, 19(23), 15604. https://doi.org/10.3390/ijerph192315604
 
 - Brown D. M. Y., Hill, R. M. & Wolf, J. K. (2022). Cross-sectional associations between 24-hour movement guideline adherence and suicidal thoughts among Canadian post-secondary students. Mental Health and Physical Activity, 23, 100484. https://doi.org/10.1016/j.mhpa.2022.100484
 
