@@ -12,8 +12,10 @@ aux_links:
 aux_links_new_tab: true
 
 
-logo: https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/INCH.png
-
+logo: imgs/INCH.png
+favicon_ico: imgs/favicon.ico
+ 
+ 
 search_enabled: false
 
 heading_anchors: false
