@@ -19,6 +19,7 @@ nav_order: 4
 - **Mitch’s Uncensored Advice for Applying to Graduate School in Clinical Psychology** [<a href="https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf" target="_blank">PDF</a>] "This brief guide is designed to provide an overview of different types of possible career options in the mental health industry, as well as specific information about the application process for a common option: the clinical psychology doctoral (Ph.D.) program"
 
 
+
 - **Kisses of Death in the Graduate School Application Process** [<a href="https://psychology.unl.edu/psichi/Graduate_School_Application_Kisses_of_Death.pdf" target="_blank">PDF</a>] "A survey of psychology graduate admissions committee chairs revealed 5 categories of mistakes applicants make that diminish their probability of acceptance. We discuss 3 strategies that psychology departments can use to decrease the likelihood that students will commit these mistakes in their graduate school applications and provide suggestions that will help students avoid these mistakes."
 
 
