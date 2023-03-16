@@ -52,7 +52,7 @@ nav_order: 4
  
  
  
--- **Nature Careers: Working Scientist** [<a href="https://podcasts.apple.com/us/podcast/working-scientist/id270216511" target="_blank">Podcast</a>] "Working Scientist is a regular free audio show featuring advice and information from global industry experts with a strong focus on supporting early career researchers working in academia and other sectors."
+- **Nature Careers: Working Scientist** [<a href="https://podcasts.apple.com/us/podcast/working-scientist/id270216511" target="_blank">Podcast</a>] "Working Scientist is a regular free audio show featuring advice and information from global industry experts with a strong focus on supporting early career researchers working in academia and other sectors."
  
  
  
