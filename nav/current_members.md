@@ -24,7 +24,7 @@ nav_order: 2
   </div>
   <div>
     <h2>Claire Groves, MA</h2>
-    <p>Claire is a first year Ph.D student at UTSA after recently completing her M.A in psychology from Northern Arizona University. Her research interests include how movement behaviours (i.e., physical activity, sedentary behavior, sleep) influence both positive and negative aspects of mental health. As well as examining how different factors impact engagement in healthy behaviours. Outside of research, Claire enjoys running, playing soccer, and reading. She can be reached at <a href = "mailto: claire.groves@utsa.edu">claire.groves@utsa.edu</a></p>
+    <p>Claire is a second year Ph.D student in psychology at UTSA after recently completing her M.A in psychology from Northern Arizona University. Her research interests include how movement behaviours (i.e., physical activity, sedentary behavior, sleep) influence both positive and negative aspects of mental health. As well as examining how different factors impact engagement in healthy behaviours. Outside of research, Claire enjoys running, playing soccer, and reading. She can be reached at <a href = "mailto: claire.groves@utsa.edu">claire.groves@utsa.edu</a></p>
   </div>
 </div>
 
@@ -37,7 +37,7 @@ nav_order: 2
   </div>
   <div>
     <h2>Carah Porter, BSc</h2>
-    <p>Carah is currently a masters student in Psychology at UTSA.  She is a recent graduate of Ohio Northern University where she earned a BSc in Psychology. Her research interests include the intersections between physical activity and identity as well as factors that influence healthy movement behavior engagement. Carah’s favorite way to get active is by hiking or cycling. She can be reached at <a href = "mailto: carah.porter@utsa.edu">carah.porter@utsa.edu</a></p>
+    <p>Carah is a first year Ph.D student in Psychology at UTSA.  She is a recent graduate of Ohio Northern University where she earned a BSc in Psychology. Her research interests include the intersections between physical activity and identity as well as factors that influence healthy movement behavior engagement. Carah’s favorite way to get active is by hiking or cycling. She can be reached at <a href = "mailto: carah.porter@utsa.edu">carah.porter@utsa.edu</a></p>
   </div>
 </div>
 
@@ -90,8 +90,8 @@ nav_order: 2
     <img src="https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/chrish.jpg" alt="" width="400" height="400">
   </div>
   <div>
-    <h2>Christopher Huong, BA</h2>
-    <p>Chris is a current masters student in the psychology program at UTSA. He graduated with a BA in psychology from Washington State University. His research interests are investigating the network structure of depressive symptomatology, and how different factors (e.g., physical activity levels) influence individual symptoms. Outside of the lab, Chris can found be at the gym, reading, or cooking. He can be reached at <a href = "mailto: christopher.huong@utsa.edu">christopher.huong@utsa.edu</a></p>
+    <h2>Christopher Huong, BS</h2>
+    <p>Chris is a current masters student in the psychology program at UTSA. He graduated with a BS in psychology from Washington State University. His research interests are investigating the network structure of depressive symptomatology, and how different factors (e.g., physical activity levels) influence individual symptoms. Outside of the lab, Chris can found be at the gym, reading, or cooking. He can be reached at <a href = "mailto: christopher.huong@utsa.edu">christopher.huong@utsa.edu</a></p>
   </div>
 </div>
 
