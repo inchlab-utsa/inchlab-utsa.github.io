@@ -7,7 +7,7 @@ nav_order: 98
 # Title of Study: **Temporal dynamics of depressive symptoms and device-measured physical activity**
 ## Principal Investigators: Denver Brown PhD, Co-Investigators: Christopher Huong BS, Claire Groves MA
 
-### For inquiries email, christopher.huong@utsa.edu
+### For inquiries email, <a href = "mailto: christopher.huong@utsa.edu">christopher.huong@utsa.edu</a>
 
 Purpose of the Study and Reason for Your Involvement: To understand and model how individual depressive symptoms and physical activity influence each other over time.
 
@@ -60,7 +60,7 @@ Upon completion of the study you may also request by email to receive a summary 
 
 Participant Privacy and Research Record Confidentiality: We will protect your confidentiality by storing your data on a secure computer in a secure office and a secure server. Your data will only be accessed and used for research purposes by the investigators. Your data will not contain anything to connect your identity with your information. Your research records will not be released without your consent unless required by law or a court order. Your records may be viewed by the Institutional Review Board, but the confidentiality of your records will be protected to the extent permitted by law. The data resulting from your participation may be used in publications and/or presentations but your identity will not be disclosed. Consent Process By clicking the next button, you are saying several things. You are saying that you have read this form or have had it read to you, that you are satisfied that you understand this form, the research study, and its risks and benefits. The researchers should have answered any questions you may have had about the research.
 
-### For inquiries email, christopher.huong@utsa.edu
+### For inquiries email, <a href = "mailto: christopher.huong@utsa.edu">christopher.huong@utsa.edu</a>
 
 
 ![network](https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/perosnalizednetwork.png "network")
