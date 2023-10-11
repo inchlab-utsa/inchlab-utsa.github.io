@@ -11,8 +11,7 @@ nav_order: 98
 
 Purpose of the Study and Reason for Your Involvement: To understand and model how individual depressive symptoms and physical activity influence each other over time.
 
-Eligibility:
-We invite you to take part in a research study because you are:
+### Eligibility: We invite you to take part in a research study because you are:
 
 • A student enrolled at UTSA
 
@@ -35,7 +34,8 @@ Participation in the Study:
 Contact information: If you have questions, concerns, complaints, or believe the research has harmed you, you may talk to the research team at: christopher.huong@utsa.edu
 This research is being overseen by an Institutional Review Board (“IRB”). You may also talk to them at IRB@utsa.edu if you have questions regarding your rights as a research participant or other questions, concerns, or complaints.
 
-Participant Role in the Research Study:
+### Participant Role in the Research Study:
+
 If you agree to participate in this study, you will be asked to:
 
 1. Complete an anonymous baseline survey (~20 min) about factors that influence your physical activity behavior and your mental health.
@@ -48,15 +48,13 @@ If you agree to participate in this study, you will be asked to:
 
 5. After the 14-day study period, you will return the physical activity monitor to the lab, where we will download your data from the device. You may also uninstall the Pathverse smartphone app at this time.
 
-You may close the survey or browser window at any time if you wish to discontinue your participation.
 
-Risk, Benefits, Costs and Compensation for Participation: There are no reasonably expected risks or costs associated with participation.
-
+### Compensation
 You may receive up to $25 ($10 for completing baseline survey; plus $0 for completing <25% of prompts; $5 for completing between 25% and 50% of the prompts; $10 for completing between 50% and 75% of the prompts; $15 for completing 75% or more of the prompts.
 
 You must also wear the physical activity monitor for a minimum of 12 hours per day for at least 12 out of the 14 study days to qualify for compensation above the $10 for the baseline survey. Adherence to the physical activity monitor wear-time criteria will be determined after the device is returned and the data is downloaded and processed.
 
-Upon completion of the study you may also request by email to receive a summary of your data in the form of a personalized network. An example of this visualization can be found at the bottom of this page. A detailed description of the general study findings will also be provided.
+Upon completion of the study you may also request by email to receive a summary of your individua; data in the form of a personalized network. An example of this visualization can be found at the bottom of this page. A detailed description of the general study findings will also be provided.
 
 
 
