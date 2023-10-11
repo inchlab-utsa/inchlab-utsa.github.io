@@ -63,7 +63,7 @@ Participant Privacy and Research Record Confidentiality: We will protect your co
 ### For inquiries email, christopher.huong@utsa.edu
 
 
-
+![network](https://raw.githubusercontent.com/inchlab-utsa/inchlab-utsa.github.io/main/imgs/perosnalizednetwork.png "network")
 
 
 
