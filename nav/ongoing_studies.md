@@ -13,15 +13,23 @@ Purpose of the Study and Reason for Your Involvement: To understand and model ho
 
 Eligibility:
 We invite you to take part in a research study because you are:
+
 • A student enrolled at UTSA
+
 • Between the age of 18-29 years
+
 • Have a web-enabled smart phone
+
 • No mobility impairments
 
 Participation in the Study:
+
 • Whether or not you take part is up to you and entirely voluntary.
+
 • You can agree to take part in the study and later change your mind.
+
 • Your decision not to participate will not be held against you.
+
 • At any time you may ask any questions concerning the study before and during participation.
 
 Contact information: If you have questions, concerns, complaints, or believe the research has harmed you, you may talk to the research team at: christopher.huong@utsa.edu
@@ -53,6 +61,8 @@ Upon completion of the study you may also request by email to receive a summary 
 
 
 Participant Privacy and Research Record Confidentiality: We will protect your confidentiality by storing your data on a secure computer in a secure office and a secure server. Your data will only be accessed and used for research purposes by the investigators. Your data will not contain anything to connect your identity with your information. Your research records will not be released without your consent unless required by law or a court order. Your records may be viewed by the Institutional Review Board, but the confidentiality of your records will be protected to the extent permitted by law. The data resulting from your participation may be used in publications and/or presentations but your identity will not be disclosed. Consent Process By clicking the next button, you are saying several things. You are saying that you have read this form or have had it read to you, that you are satisfied that you understand this form, the research study, and its risks and benefits. The researchers should have answered any questions you may have had about the research.
+
+### For inquiries email, christopher.huong@utsa.edu
 
 
 
