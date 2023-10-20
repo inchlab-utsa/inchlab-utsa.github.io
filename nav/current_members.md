@@ -11,10 +11,11 @@ nav_order: 2
   <div>
     <h2>Denver Brown, PhD. </h2>
     <p>Dr. Denver Brown is an Assistant Professor in the Department of Psychology at the University of Texas at San Antonio, with a joint appointment in Department of Kinesiology. He oversees the INCH Lab at UTSA. After graduating from the HonBScKin, MSc, and PhD programs in the Department of Kinesiology at McMaster University in Hamilton, Canada, Denver went on to complete Postdoctoral Fellowships in the Mental Health and Physical Activity Research Centre at the University of Toronto and the Department of Family Medicine at McMaster University. In his spare time, Denver enjoys spending time with his son, playing hockey, trail running and road cycling. 
-  </div>
-       <a href="https://inchlab-utsa.github.io/imgs/db_cv.pdf" target="_blank">CV.</a> 
-  </div>    
-email:<a href = "mailto: denver.brown@utsa.edu">denver.brown@utsa.edu</a> </p>
+  
+<a href="https://inchlab-utsa.github.io/imgs/db_cv.pdf" target="_blank">CV.</a> 
+
+      
+<a href = "mailto: denver.brown@utsa.edu">denver.brown@utsa.edu</a> </p>
   </div>
 </div>
 
