@@ -54,7 +54,7 @@ You may receive up to $25 ($10 for completing baseline survey; plus $0 for compl
 
 You must also wear the physical activity monitor for a minimum of 12 hours per day for at least 12 out of the 14 study days to qualify for compensation above the $10 for the baseline survey. Adherence to the physical activity monitor wear-time criteria will be determined after the device is returned and the data is downloaded and processed.
 
-Upon completion of the study you may also request by email to receive a summary of your individua; data in the form of a personalized network. An example of this visualization can be found at the bottom of this page. A detailed description of the general study findings will also be provided.
+Upon completion of the study you may also request by email to receive a summary of your individual data in the form of a personalized network. An example of this visualization can be found at the bottom of this page. A detailed description of the general study findings will also be provided.
 
 
 
