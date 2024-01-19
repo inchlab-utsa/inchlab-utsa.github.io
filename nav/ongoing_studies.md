@@ -3,8 +3,8 @@ layout: default
 title: Current Studies
 nav_order: 98
 ---
-
-# Title of Study: **Temporal dynamics of depressive symptoms and device-measured physical activity**
+# NOTICE: The below study is no longer live.
+# ~~Title of Study: **Temporal dynamics of depressive symptoms and device-measured physical activity**~~
 ## Principal Investigators: Denver Brown PhD, Co-Investigators: Christopher Huong BS, Claire Groves MA
 
 ### For inquiries email, <a href = "mailto: christopher.huong@utsa.edu">christopher.huong@utsa.edu</a>
